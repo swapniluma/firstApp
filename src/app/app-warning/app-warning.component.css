@@ -1,0 +1,9 @@
+p{
+    color: red;
+    padding: 20;
+    background-origin: padding-box;
+    background: -moz-repeating-radial-gradient();
+    background-color: lightsalmon
+    border: 2px
+    
+}

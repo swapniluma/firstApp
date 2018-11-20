@@ -1,0 +1,7 @@
+p{    
+    padding: 20;
+    background-color: lightgreen;
+    background: -moz-repeating-radial-gradient();
+
+    border: 1px solid darkgreen;
+}
